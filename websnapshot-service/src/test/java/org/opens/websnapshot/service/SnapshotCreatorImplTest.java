@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.opens.websnapshot.service;
+package org.tanaguru.websnapshot.service;
 
 import java.net.MalformedURLException;
 import java.net.URL;

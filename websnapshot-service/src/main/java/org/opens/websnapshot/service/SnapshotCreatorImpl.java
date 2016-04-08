@@ -17,7 +17,7 @@
  *
  * Contact us by mail: open-s AT open-s DOT com
  */
-package org.opens.websnapshot.service;
+package org.tanaguru.websnapshot.service;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -35,7 +35,7 @@ import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriverService;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.opens.websnapshot.urlmanager.utils.UrlUtils;
+import org.tanaguru.websnapshot.urlmanager.utils.UrlUtils;
 
 public class SnapshotCreatorImpl implements SnapshotCreator {
 

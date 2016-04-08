@@ -17,7 +17,7 @@
  *
  * Contact us by mail: open-s AT open-s DOT com
  */
-package org.opens.websnapshot.service;
+package org.tanaguru.websnapshot.service;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
