@@ -30,8 +30,8 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>org.opens</groupId>
-            <artifactId>commons-entity-jpa</artifactId>
+            <groupId>org.tanaguru</groupId>
+            <artifactId>tanaguru-commons-entity-jpa</artifactId>
             <scope>compile</scope>
         </dependency>
         
