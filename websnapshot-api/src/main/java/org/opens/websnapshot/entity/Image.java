@@ -20,7 +20,7 @@
 package org.opens.websnapshot.entity;
 
 import java.util.Date;
-import org.opens.tanaguru.sdk.entity.Entity;
+import org.tanaguru.sdk.entity.Entity;
 
 public interface Image extends Entity {
 
